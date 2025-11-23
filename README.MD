@@ -141,7 +141,7 @@
   
   ---
   
-  ## 📊 GitHub Stats (Neon Mode)
+  ## 📊 GitHub Stats
   
   <p align="center">
     <img height="155" src="https://github-readme-stats.vercel.app/api?username=Oleg-Frontend-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
