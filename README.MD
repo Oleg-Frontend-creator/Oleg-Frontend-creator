@@ -2,7 +2,9 @@
 background:#0a0a0a;
 padding: 20px;
 border-radius: 12px;
-color:#d9e1ff;">
+width=100%;
+color:#d9e1ff;
+">
   <p align="center">
     <img src="./banner.jpg" alt="Dark neon banner" width="100%" height="300px">
   </p>
