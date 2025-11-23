@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Dark neon banner" width="100%">
+</p>
+
 <!-- Banner -->
 <h1 align="center" style="color:#7f5af0;">✨ OLEG — Frontend Developer & Future Founder ✨</h1>
 <p align="center" style="color:#94a1b2;">
