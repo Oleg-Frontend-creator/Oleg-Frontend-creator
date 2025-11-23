@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Dark neon banner" width="100%">
+  <img src="./banner.jpg" alt="Dark neon banner" width="100%" height="300px">
 </p>
 
 <!-- Banner -->
