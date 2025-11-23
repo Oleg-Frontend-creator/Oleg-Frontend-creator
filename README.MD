@@ -1,3 +1,13 @@
+<div style="background:#05070b; padding:20px; border-radius:12px; color:#e6ecff;">
+
+  <h2 align="center">🔥 About Me (test)</h2>
+  <p>
+    Это тестовый тёмный блок. Если ты видишь тёмный прямоугольник с этим текстом,
+    значит фон внутри README работает.
+  </p>
+
+</div>
+
 <div style="
 background:#0a0a0a;
 padding: 20px;
