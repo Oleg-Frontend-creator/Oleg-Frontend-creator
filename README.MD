@@ -226,16 +226,16 @@
   ## 📊 GitHub Stats
   
   <p align="center">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=Oleg-Frontend-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
   
   ---
   
   ## 📫 Connect With Me
-  
+
   🌐 Сайт: https://modernstack.ru
   💬 Telegram: @webbuilding_moscow
   📧 Email: olegpravdinsc@gmail.com
+
   ---
   <h3 align="center">⚡ Code. Build. Grow. Становиться сильнее — в коде, спорте и мышлении. ⚡</h3>
