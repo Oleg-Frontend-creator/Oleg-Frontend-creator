@@ -122,10 +122,10 @@
   - таблица всех операций с актуальным балансом
   - динамическое обновление данных без перезагрузки страницы
 
-🔗 Ссылки:
-  👉 Demo: https://lumin-coin-finance.onrender.com
-  👉 Исходный код (TypeScript): https://github.com/Oleg-Frontend-creator/LuminCoin
-  👉  Исходный код (JS): https://github.com/Oleg-Frontend-creator/LuminCoinFinance  
+🔗 Ссылки:  
+  👉 Demo: https://lumin-coin-finance.onrender.com  
+  👉 Исходный код (TypeScript): https://github.com/Oleg-Frontend-creator/LuminCoin  
+  👉 Исходный код (JS): https://github.com/Oleg-Frontend-creator/LuminCoinFinance  
   
   ---
   
