@@ -82,8 +82,8 @@
    - мгновенная подгрузка данных без перезагрузки страницы
 
 🔗 Ссылки
-
-  👉 Демо:         https://frontend-12sk.onrender.com
+ 
+  👉 Демо: https://frontend-12sk.onrender.com  
   👉 Исходный код: https://github.com/Oleg-Frontend-creator/plans-shop
   
   ---
