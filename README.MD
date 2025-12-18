@@ -226,7 +226,7 @@
   ## 📊 GitHub Stats
   
   <p align="center">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
   
   ---
