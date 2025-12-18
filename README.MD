@@ -232,10 +232,10 @@
   ---
   
   ## 📫 Connect With Me
-
-  🌐 Сайт: https://modernstack.ru
-  💬 Telegram: @webbuilding_moscow
-  📧 Email: olegpravdinsc@gmail.com
+  
+  - 🌐 Сайт: https://modernstack.ru  
+  - 💬 Telegram: @webbuilding_moscow  
+  - 📧 Email: olegpravdinsc@gmail.com
 
   ---
   <h3 align="center">⚡ Code. Build. Grow. Становиться сильнее — в коде, спорте и мышлении. ⚡</h3>
