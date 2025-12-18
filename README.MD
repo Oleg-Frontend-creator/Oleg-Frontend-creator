@@ -83,8 +83,8 @@
 
 🔗 Ссылки
 
-👉 Демо:         https://frontend-12sk.onrender.com
-👉 Исходный код: https://github.com/Oleg-Frontend-creator/plans-shop
+  👉 Демо:         https://frontend-12sk.onrender.com
+  👉 Исходный код: https://github.com/Oleg-Frontend-creator/plans-shop
   
   ---
   
