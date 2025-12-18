@@ -26,7 +26,7 @@
   
   ---
   
-  ## ⚡ Tech Stack (Dark Neon)
+  ## ⚡ Tech Stack
   
   ### 🎨 Frontend
   <p>
@@ -63,7 +63,7 @@
   
   ---
   
-  ### 🌿 Plant Shop (Angular + MongoDB) — Full SPA  
+  ### 🌿 "HomeDecor" Shop (Angular + MongoDB) — Full SPA  
   Современный интернет-магазин с фильтрами, избранным, корзиной и backend:
   - роутинг и архитектура Angular  
   - хранение состояния через queryParams  
@@ -153,7 +153,7 @@
   ## 📫 Connect With Me
   
   - Telegram: @webbuilding_moscow 
-  - Email: olegpravdinmsc@gmail.com
-  
+  - Email:    olegpravdinmsc@gmail.com
+  - Site:     https://modernstack.ru
   ---
   <h3 align="center">⚡ Code. Build. Grow. Become the person you want to be. ⚡</h3>
