@@ -72,8 +72,7 @@ Streetlifting и силовые тренировки — часть моего �
 - выполнена **оплаченная разработка информационного рекрутингового лендинга** для подбора персонала под конкретную вакансию
 
 🔗 Links  
-👉 Demo: https://dmdpassport.ru  
-👉 Code: https://github.com/Oleg-Frontend-creator/dme_passport-control
+👉 Demo: https://modernstack.ru
 ---
 ## 💼 Commercial Case — Recruiting Landing (Vanilla JS)
 
