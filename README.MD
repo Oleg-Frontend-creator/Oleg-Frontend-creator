@@ -81,7 +81,7 @@ Streetlifting и силовые тренировки — часть моего �
 
 ---
 
-### 💼 Commercial Case — Recruiting Landing (Vanilla JS)
+## 💼 Commercial Case — Recruiting Landing (Vanilla JS)
 
 Оплаченный коммерческий информационный лендинг (2 страницы) с фокусом на
 **производительность** и **чистую фронтенд-архитектуру**.
@@ -92,14 +92,16 @@ Streetlifting и силовые тренировки — часть моего �
 - AJAX → PHP-скрипт → email
 - сборка через Webpack
 
-### 📊 Lighthouse
-- Main page - **mobile:** 92 / 100 / 100 / 100, **desktop:** 89 / 100 / 100 / 100;
-- Secondary page - **desktop / mobile:** 100 / 100 / 100 / 100  
-(Performance / Accessibility / Best Practices / SEO)
-  
-### 🔗 Ссылки
-  👉 Demo: https://dmdpassport.ru
-  👉 Исходный код: https://github.com/Oleg-Frontend-creator/dme_passport-control
+📊 Performance (Lighthouse / PageSpeed)
+
+**Main page**
+- Mobile: **92 / 100 / 100 / 100**
+- Desktop: **89 / 100 / 100 / 100**
+
+**Secondary page**
+- Mobile / Desktop: **100 / 100 / 100 / 100**
+
+*(Performance / Accessibility / Best Practices / SEO)*
 
 ---
 
