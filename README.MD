@@ -93,9 +93,13 @@ Streetlifting и силовые тренировки — часть моего �
 - сборка через Webpack
 
 ### 📊 Lighthouse
-- **Mobile:** 92 / 100 / 100 / 100, **Desktop:** 89 / 100 / 100 / 100;
-- **Desktop/Mobile:** 100 / 100 / 100 / 100  
+- Main page - **mobile:** 92 / 100 / 100 / 100, **desktop:** 89 / 100 / 100 / 100;
+- Secondary page - **desktop / mobile:** 100 / 100 / 100 / 100  
 (Performance / Accessibility / Best Practices / SEO)
+  
+### 🔗 Ссылки
+  👉 Demo: https://dmdpassport.ru
+  👉 Исходный код: https://github.com/Oleg-Frontend-creator/dme_passport-control
 
 ---
 
