@@ -92,9 +92,10 @@ Streetlifting и силовые тренировки — часть моего �
 - AJAX → PHP-скрипт → email
 - сборка через Webpack
 
-📊 **PageSpeed:**  
-Main page — Mobile ** 92 / 100 / 100 / 100**, Desktop **89 / 100 / 100 / 100**  
-Secondary pages — **100 / 100 / 100 / 100**
+### 📊 Lighthouse
+- **Mobile:** 92 / 100 / 100 / 100, **Desktop:** 89 / 100 / 100 / 100;
+- **Desktop/Mobile:** 100 / 100 / 100 / 100  
+(Performance / Accessibility / Best Practices / SEO)
 
 ---
 
