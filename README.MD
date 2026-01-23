@@ -163,8 +163,8 @@ SPA-приложение для учёта личных финансов с фо
 ## 📫 Connect With Me
 
 - 🌐 Website: https://modernstack.ru  
-- 💬 Telegram: @webbuilding_moscow  
-- 📧 Email: olegpravdinsc@gmail.com
+- 💬 Telegram: @webbuilding_moscow
+- 📧 Email: webbuilding.moscow@yandex.com
 
 ---
 <h3 align="center">⚡ Code. Build. Grow. Становиться сильнее — в коде, спорте и мышлении. ⚡</h3>
