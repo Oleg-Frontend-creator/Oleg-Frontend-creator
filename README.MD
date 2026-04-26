@@ -1,170 +1,95 @@
-<p align="center">
-  <img src="./banner.jpg" alt="Dark neon banner" width="100%" height="300px">
-</p>
+# Олег Галузинский — Frontend Developer
 
-<!-- Banner -->
-<h1 align="center">OLEG — Frontend Developer | Performance-Oriented Engineer</h1>
-<p align="center">
-  Angular • TypeScript • Frontend Architecture • Performance
-</p>
+React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 
 ---
 
-## 🔥 About Me
+## О себе
 
-Я — Олег, frontend-разработчик с инженерным подходом к продукту.
+Фронтенд-разработчик, 24 года. Делаю интерфейсы — от идеи и дизайна до деплоя на VPS.  
+Инженер и сисадмин по образованию, спортсмен. Дисциплина и точность — не мягкие навыки, а база.
 
-Моя специализация — **производительные, стабильные и масштабируемые интерфейсы**.  
-Я работаю системно: **архитектура → производительность → поддерживаемость → бизнес-результат**.
-
-Мне важно:
-- высокая скорость загрузки и отзывчивость интерфейсов  
-- читаемый и расширяемый код
-- возможность развивать продукт без технического долга  
-  
-Мой подход формируется через дисциплину, спорт, аналитическое мышление и постоянное улучшение процессов.
-  
----
-
-## ⚡ Tech Stack
-
-### 🎨 Core Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,scss,webpack,npm" />
-</p>
-
-### 🛠 Experience With
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,git" />
-</p>
-  
----  
-## 💪 Streetlifting / Strength  
-Streetlifting и силовые тренировки — часть моего инженерного мышления:  
-дисциплина, работа на дистанции, внимание к деталям и системный прогресс.
-
----
-## 🧩 Featured Projects
-Ниже — ключевые проекты, демонстрирующие мой подход к разработке:  
-**производительность, архитектура, состояние данных и реальные продуктовые задачи.**
-
----
-## 🌐 Personal Website — Frontend Portfolio Platform (Vanilla JS)
-Мой основной веб-сайт и портфолио как frontend-разработчика.  
-Проект реализован на **чистом JavaScript** без фреймворков и спроектирован как лёгкая и производительная frontend-платформа с упором на **архитектуру, анимации и скорость загрузки**.
-- frontend-платформа на Vanilla JS без фреймворков
-- модульная структура кода и data-driven подход для проектов и услуг
-- разделение критических и асинхронных ресурсов (быстрый First Paint / LCP)
-- адаптивная вёрстка (desktop / tablet / mobile)
-- кастомные интерактивные элементы и анимации
-- форма обратной связи и интерактивная карта
-
-**📊  Performance (Lighthouse / PageSpeed)**
-- **Mobile:** 97 / 98 / 100 / 100  
-- **Desktop:** 100 / 98 / 100 / 100  
-(Performance / Accessibility / Best Practices / SEO)
-
-**💼 Коммерческий факт**
-- сайт используется как публичный продукт и портфолио
-- выполнена **оплаченная разработка информационного рекрутингового лендинга** для подбора персонала под конкретную вакансию
-
-🔗 Live: https://modernstack.ru
----
-## 💼 Commercial Case — Recruiting Landing (Vanilla JS)
-Оплаченный коммерческий информационный лендинг (2 страницы) с фокусом на
-**производительность** и **чистую фронтенд-архитектуру**.
-- Vanilla JS без фреймворков
-- manual split ресурсов: **Critical / Async**
-- **WebP + lazy loading**, Intersection Observer
-- AJAX → PHP-скрипт → email
-- сборка через **Webpack**
-
-**📊 Performance (Lighthouse / PageSpeed)**
-
-**Main page**
-- Mobile: **92 / 100 / 100 / 100**
-- Desktop: **89 / 100 / 100 / 100**
-**Secondary page**
-- Mobile / Desktop: **100 / 100 / 100 / 100**
-
-🔗 Demo: https://dmdpassport.ru  
-🔗 Code: https://github.com/Oleg-Frontend-creator/dme_passport-control
-
----
-## 🌿 HomeDecor — Online Store (Angular • Node.js • MongoDB)
-Полнофункциональный интернет-магазин растений, реализованный как **Full SPA** с акцентом на **пользовательский опыт**, **состояние приложения** и **масштабируемую архитектуру**.
- - Angular SPA с динамической подгрузкой данных
- - многоуровневая фильтрация каталога
- - корзина, избранное, оформление заказов
- - авторизация и личный кабинет пользователя
- - сохранение состояния через query-параметры
- - работа с API без перезагрузки страницы
-
-🔗 Demo: https://frontend-12sk.onrender.com  
-🔗 Code: https://github.com/Oleg-Frontend-creator/plants-shop
-
----
-## 🧩 Digital Agency Platform (Angular • Node.js • MongoDB)
-Корпоративный сайт digital-агентства с блог-платформой и системой пользовательского взаимодействия. 
-Фокус проекта — **контент**, **социальные механики** и **расширяемая структура данных**.
- - блог-платформа с фильтрацией статей и пагинацией
- - авторизация и управление пользовательским доступом
- - система комментариев и пользовательских реакций
- - обработка заявок на услуги
- - хранение контента и пользовательской активности в MongoDB
-
-🔗 Demo: https://frontend-v0k7.onrender.com  
-🔗 Code: https://github.com/Oleg-Frontend-creator/web-studio
-
----  
-## 💰 LuminCoin — Personal Finance Manager (JS → TypeScript)
-SPA-приложение для учёта личных финансов с фокусом на **бизнес-логику**, **состояние данных** и **типизацию (миграция JS → TS)**.
-- управление доходами и расходами с CRUD-операциями
-- категоризация финансовых операций
-- интерактивный дашборд с аналитикой
-- фильтрация данных по периодам
-
-🔗 Demo: https://lumin-coin-finance.onrender.com  
-🔗 Code (TypeScript): https://github.com/Oleg-Frontend-creator/LuminCoin  
-🔗 Code (JS): https://github.com/Oleg-Frontend-creator/LuminCoinFinance  
-
----  
-## 🛠️Freelance Studio — Internal Management Panel (SPA)
-Административная SPA-панель для управления заказами и фрилансерами внутри команды.
-Фокус проекта — **внутренние процессы**, **доступы** и **состояние системы**.
-- авторизация пользователей
-- управление заказами и исполнителями (CRUD)
-- привязка фрилансеров к задачам и заказам
-- календарь задач и контроль загрузки
-- собственный SPA-роутинг на **Vanilla JS**
-- сохранение состояния приложения без перезагрузки  
-
-🔗 Demo: https://freelance-studio-frontend.onrender.com  
-🔗 Code: https://github.com/Oleg-Frontend-creator/FreelanceStudio
-
----  
-## 🧭 Roadmap (My Direction)
-
-- Angular → React → Next.js  
-- Node.js / Express → Nest.js  
-- CI/CD (углубленно), Docker (углубленно), DevOps-основа  
-- Создание собственной мини-студии  
+Сейчас в активной фриланс-практике, беру коммерческие проекты под ключ.  
+Расту в сторону fullstack — Node.js, DevOps, архитектура. Долгосрочная цель — собственная студия.
 
 ---
 
-## 📊 GitHub Stats
+## Стек
+
+**Core**
+`React` `Next.js 15` `TypeScript` `JavaScript`
+
+**Styling**
+`Tailwind CSS v4` `CSS / SCSS` `Framer Motion` `Figma`
+
+**Tools**
+`Git` `Vite` `REST API` `PHP`
+
+**Infra**
+`Nginx` `VPS / Linux` `PM2` `SSL / DNS`
+
+---
+
+## Проекты
+
+### 🔑 Ключ к танго — коммерческий заказ
+`Next.js 15` `TypeScript` `Tailwind CSS` `Nginx` `Yandex Cloud`
+
+Сайт московского клуба аргентинского танго — от дизайна до деплоя на VPS.  
+Мероприятия, расписание, галерея (Yandex Cloud Object Storage), формы записи с уведомлениями на email и в Telegram через собственный прокси-сервер.  
+Промо и партнерские лендинги внутри домена keytotango.ru. JSON-LD схемы для 8 типов (Event, LocalBusiness и др.), Яндекс.Метрика с кастомными целями.  
+Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt — на отдельном VPS клиента.  
+Клиент приносит идею — я проектирую, реализую и деплою. Правки вносим вместе, операционка и инфраструктура полностью на мне.
+
+🔗 [keytotango.ru](https://keytotango.ru)
+
+---
+
+### ⚡ modernstack.ru — портфолио
+`Next.js 15` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Lenis`
+
+Собственное портфолио — от дизайна до деплоя. SSG, динамические страницы проектов и услуг, кастомный курсор, smooth scroll, терминальная 404.  
+Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt.
+
+🔗 [modernstack.ru](https://modernstack.ru)
+
+---
+
+### 📊 Учебные SPA
+
+| Проект | Стек | Суть |
+|--------|------|------|
+| [LuminCoin Finance](https://lumin-coin-finance.onrender.com) | TypeScript, Chart.js | Финансовый трекер, SPA без фреймворка — роутинг, состояние, авторизация вручную |
+| [Freelance Studio](https://freelance-studio-frontend.onrender.com) | TypeScript, REST API | Панель управления заказами и фрилансерами, CRUD, фильтрация |
+| [Plants Shop](https://frontend-12sk.onrender.com) | Angular, RxJS, SCSS | Интернет-магазин с корзиной, избранным и личным кабинетом |
+
+Написаны намеренно без фреймворков или на Angular — чтобы понять что именно React решает под капотом.
+
+---
+
+### 🚀 PageSpeed / Lighthouse — эксперименты с производительностью
+
+Коммерческий рекрутинговый лендинг (Vanilla JS, Webpack):
+- Manual split ресурсов: Critical / Async
+- WebP + Intersection Observer lazy loading
+- AJAX → PHP → email
+
+**Результаты Lighthouse:**  
+Mobile главная: **92 / 100 / 100 / 100** · Secondary: **100 / 100 / 100 / 100**  
+Desktop: **89–100** по всем метрикам
+
+🔗 [dmdpassport.ru](https://dmdpassport.ru) · [код](https://github.com/Oleg-Frontend-creator/dme_passport-control)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Контакты
 
-- 🌐 Website: https://modernstack.ru  
-- 💬 Telegram: @webbuilding_moscow
-- 📧 Email: webbuilding.moscow@yandex.com
-
----
-<h3 align="center">⚡ Code. Build. Grow. Становиться сильнее — в коде, спорте и мышлении. ⚡</h3>
+🌐 [modernstack.ru](https://modernstack.ru) · 💬 [@webbuilding_moscow](https://t.me/webbuilding_moscow) · 📧 webbuilding.moscow@yandex.com
