@@ -1,10 +1,10 @@
-# Олег Галузинский — Frontend Developer
+# 👨‍💻 Олег Галузинский — Frontend Developer
 
 React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 
 ---
 
-## О себе
+## 🙋 О себе
 
 Фронтенд-разработчик, 24 года. Делаю интерфейсы — от идеи и дизайна до деплоя на VPS.  
 Инженер и сисадмин по образованию, спортсмен. Дисциплина и точность — не мягкие навыки, а база.
@@ -14,7 +14,7 @@ React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 
 ---
 
-## Стек
+## 🛠 Стек
 
 **Core**
 `React` `Next.js 15` `TypeScript` `JavaScript`
@@ -30,15 +30,19 @@ React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 
 ---
 
-## Проекты
+## 🗂 Проекты
 
 ### 🔑 Ключ к танго — коммерческий заказ
 `Next.js 15` `TypeScript` `Tailwind CSS` `Nginx` `Yandex Cloud`
 
-Сайт московского клуба аргентинского танго — от дизайна до деплоя на VPS.  
-Мероприятия, расписание, галерея (Yandex Cloud Object Storage), формы записи с уведомлениями на email и в Telegram через собственный прокси-сервер.  
-Промо и партнерские лендинги внутри домена keytotango.ru. JSON-LD схемы для 8 типов (Event, LocalBusiness и др.), Яндекс.Метрика с кастомными целями.  
-Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt — на отдельном VPS клиента.  
+Сайт московского клуба аргентинского танго — от дизайна до деплоя на VPS.
+
+- 📅 Мероприятия, расписание, галерея (Yandex Cloud Object Storage)
+- 📬 Формы записи с уведомлениями на email и в Telegram через собственный прокси-сервер
+- 🌐 Промо и партнерские лендинги внутри домена keytotango.ru
+- 🔍 JSON-LD схемы для 8 типов (Event, LocalBusiness и др.), Яндекс.Метрика с кастомными целями
+- ⚙️ Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt — на VPS клиента
+
 Клиент приносит идею — я проектирую, реализую и деплою. Правки вносим вместе, операционка и инфраструктура полностью на мне.
 
 🔗 [keytotango.ru](https://keytotango.ru)
@@ -48,8 +52,11 @@ React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 ### ⚡ modernstack.ru — портфолио
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Lenis`
 
-Собственное портфолио — от дизайна до деплоя. SSG, динамические страницы проектов и услуг, кастомный курсор, smooth scroll, терминальная 404.  
-Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt.
+Собственное портфолио — от дизайна до деплоя.
+
+- 🖥 SSG, динамические страницы проектов и услуг, терминальная 404
+- 🎨 Кастомный курсор, smooth scroll, aurora-фон, reveal-анимации
+- ⚙️ Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt
 
 🔗 [modernstack.ru](https://modernstack.ru)
 
@@ -70,19 +77,19 @@ React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 ### 🚀 PageSpeed / Lighthouse — эксперименты с производительностью
 
 Коммерческий рекрутинговый лендинг (Vanilla JS, Webpack):
-- Manual split ресурсов: Critical / Async
-- WebP + Intersection Observer lazy loading
-- AJAX → PHP → email
+- ✂️ Manual split ресурсов: Critical / Async
+- 🖼 WebP + Intersection Observer lazy loading
+- 📨 AJAX → PHP → email
 
 **Результаты Lighthouse:**  
-Mobile главная: **92 / 100 / 100 / 100** · Secondary: **100 / 100 / 100 / 100**  
-Desktop: **89–100** по всем метрикам
+📱 Mobile главная: **92 / 100 / 100 / 100** · Secondary: **100 / 100 / 100 / 100**  
+🖥 Desktop: **89–100** по всем метрикам
 
 🔗 [dmdpassport.ru](https://dmdpassport.ru) · [код](https://github.com/Oleg-Frontend-creator/dme_passport-control)
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-Frontend-creator&layout=compact&theme=tokyonight&hide_border=true" />
@@ -90,6 +97,6 @@ Desktop: **89–100** по всем метрикам
 
 ---
 
-## Контакты
+## 📫 Контакты
 
 🌐 [modernstack.ru](https://modernstack.ru) · 💬 [@webbuilding_moscow](https://t.me/webbuilding_moscow) · 📧 webbuilding.moscow@yandex.com
