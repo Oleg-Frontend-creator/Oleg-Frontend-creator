@@ -1,91 +1,122 @@
-# 👨‍💻 Олег Галузинский — Frontend Developer
+# 👨‍💻 Олег Галузинский — Full-stack Web Developer
 
-React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
+Next.js · React · TypeScript · SQL · Prisma · Tailwind CSS · VPS Deploy
 
 ---
 
 ## 🙋 О себе
 
-Фронтенд-разработчик, 24 года. Делаю интерфейсы — от идеи и дизайна до деплоя на VPS.  
-Инженер и сисадмин по образованию, спортсмен. Дисциплина и точность — не мягкие навыки, а база.
+Full-stack web-разработчик с frontend-фокусом и инженерным бэкграундом.
 
-Сейчас в активной фриланс-практике, беру коммерческие проекты под ключ.  
-Расту в сторону fullstack — Node.js, DevOps, архитектура. Долгосрочная цель — собственная студия.
+Делаю сайты, админки, каталоги, CRM и MVP под ключ: от структуры, UX/UI-дизайна и интерфейса до базы данных, серверной логики, форм заявок, SEO-базы, деплоя на VPS и поддержки.
+
+Не просто верстаю макеты — сам продумываю визуальную подачу, пользовательский путь, адаптив и техническую архитектуру проекта. Клиент приносит задачу или идею, я помогаю превратить её в работающий web-продукт.
+
+По основной профессии работаю с серверным оборудованием, сетями, SQL-скриптами и технической инфраструктурой. Этот опыт помогает мне понимать не только frontend, но и то, как проект живёт после запуска.
 
 ---
 
 ## 🛠 Стек
 
-**Core**
+**Frontend**  
 `React` `Next.js 15` `TypeScript` `JavaScript`
 
-**Styling**
+**Backend / Data**  
+`Prisma ORM` `SQL` `MySQL` `REST API` `PHP`
+
+**UI / Styling**  
 `Tailwind CSS v4` `CSS / SCSS` `Framer Motion` `Figma`
 
-**Tools**
-`Git` `Vite` `REST API` `PHP`
+**Infra**  
+`Nginx` `VPS / Linux` `PM2` `SSL / DNS` `Vercel`
 
-**Infra**
-`Nginx` `VPS / Linux` `PM2` `SSL / DNS`
+**SEO / Quality**  
+`Lighthouse` `Core Web Vitals` `JSON-LD` `Sitemap` `Robots.txt`
 
 ---
 
-## 🗂 Проекты
+## 🗂 Основные проекты
 
-### 🔑 Ключ к танго — коммерческий заказ
-`Next.js 15` `TypeScript` `Tailwind CSS` `Nginx` `Yandex Cloud`
+### 🏃 Imetria — full-stack система для школы танца и спорта
+`Next.js 15` `TypeScript` `Prisma ORM` `SQL` `Tailwind CSS` `VPS`
 
-Сайт московского клуба аргентинского танго — от дизайна до деплоя на VPS.
+Сайт и внутренняя система для школы танца и спорта: публичные страницы, направления, преподаватели, база данных, админка, заявки и управление контентом.
 
-- 📅 Мероприятия, расписание, галерея (Yandex Cloud Object Storage)
+- 🧩 Публичный сайт + админ-панель
+- 🗂 Управление направлениями, преподавателями и контентом
+- 📬 Формы заявок и lead-flow
+- 🗄 База данных и backend-логика
+- 🔍 SEO-структура под страницы направлений
+- ⚙️ Деплой на VPS через PM2/Nginx
+
+Проект строится не как статичная витрина, а как рабочая система для школы: пользователь выбирает направление и оставляет заявку, а администратор может обновлять контент без постоянного обращения к разработчику.
+
+**Статус:** финальная стадия / подготовка к публикации
+
+---
+
+### 🔑 KeyToTango — production-сайт клуба аргентинского танго
+`Next.js 15` `TypeScript` `Tailwind CSS` `Telegram API` `Yandex Cloud` `Nginx` `VPS`
+
+Сайт московского проекта аргентинского танго — от структуры и UX/UI до деплоя и сопровождения.
+
+- 📅 Обучение, мероприятия, расписание, галерея
 - 📬 Формы записи с уведомлениями на email и в Telegram через собственный прокси-сервер
-- 🌐 Промо и партнерские лендинги внутри домена keytotango.ru
-- 🔍 JSON-LD схемы для 8 типов (Event, LocalBusiness и др.), Яндекс.Метрика с кастомными целями
-- ⚙️ Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt — на VPS клиента
+- 🌐 Промо и партнёрские лендинги внутри домена keytotango.ru
+- 🔍 JSON-LD схемы для событий и страниц, sitemap, robots
+- 📈 Яндекс.Метрика с кастомными целями
+- ⚙️ Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt на VPS клиента
 
-Клиент приносит идею — я проектирую, реализую и деплою. Правки вносим вместе, операционка и инфраструктура полностью на мне.
+Клиент приносит идею — я проектирую, реализую, деплою и сопровождаю проект. В моей зоне: визуальная структура, frontend, формы, SEO-база, инфраструктура и техническая операционка.
 
 🔗 [keytotango.ru](https://keytotango.ru)
 
 ---
 
-### ⚡ modernstack.ru — портфолио
-`Next.js 15` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Lenis`
+### 🥋 Top Team — брендовый каталог экипировки для карате
+`Next.js App Router` `React` `TypeScript` `Tailwind CSS 4` `JSON-LD` `Vercel Route Handler`
+
+Брендовый каталог экипировки для карате на финальной стадии: товары, страницы продуктов, заявки, marketplace-ссылки, legal pages, cookie consent и SEO-слой.
+
+На текущем этапе это не полноценный интернет-магазин с корзиной и оплатой, а e-commerce MVP: сайт помогает показать товары, собрать прямую заявку и дать пользователю дополнительный путь покупки через Wildberries/Ozon.
+
+- 🛒 Каталог и страницы товаров
+- 📦 Товарные данные в TypeScript
+- 📬 Формы заявок и lead-flow через API
+- 💬 Telegram-уведомления
+- 🔗 Product-specific ссылки на Wildberries и Ozon
+- 🍪 Cookie consent и legal pages
+- 🔍 Metadata, sitemap, robots, JSON-LD
+- 🚀 Архитектура готова к развитию: корзина, оплата, склад, 1С, CRM, админка
+
+**Статус:** финальная стадия / подготовка к запуску
+
+---
+
+### ⚡ modernstack.ru — портфолио и личный сайт
+`Next.js 15` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Lenis` `Nginx` `VPS`
 
 Собственное портфолио — от дизайна до деплоя.
 
-- 🖥 SSG, динамические страницы проектов и услуг, терминальная 404
+- 🖥 SSG, динамические страницы проектов и услуг
 - 🎨 Кастомный курсор, smooth scroll, aurora-фон, reveal-анимации
+- 📬 Контактная форма с отправкой в Telegram
+- 🔍 Metadata, sitemap, robots, JSON-LD
 - ⚙️ Деплой: standalone output, PM2, Nginx reverse proxy, SSL Let's Encrypt
 
 🔗 [modernstack.ru](https://modernstack.ru)
 
 ---
 
-### 📊 Учебные SPA
+## 🧪 Технические проекты
 
 | Проект | Стек | Суть |
 |--------|------|------|
-| [LuminCoin Finance](https://lumin-coin-finance.onrender.com) | TypeScript, Chart.js | Финансовый трекер, SPA без фреймворка — роутинг, состояние, авторизация вручную |
-| [Freelance Studio](https://freelance-studio-frontend.onrender.com) | TypeScript, REST API | Панель управления заказами и фрилансерами, CRUD, фильтрация |
-| [Plants Shop](https://frontend-12sk.onrender.com) | Angular, RxJS, SCSS | Интернет-магазин с корзиной, избранным и личным кабинетом |
+| [Plants Angular Shop](https://frontend-12sk.onrender.com) | Angular, RxJS, SCSS | E-commerce pet-project: каталог, фильтрация, корзина, избранное, личный кабинет и история заказов |
+| [LuminCoin Finance](https://lumin-coin-finance.onrender.com) | TypeScript, Chart.js | SPA для учёта финансов без фреймворка: роутинг, состояние, авторизация, категории, графики |
+| [Freelance Studio](https://freelance-studio-frontend.onrender.com) | TypeScript, REST API | SPA-панель для управления заказами и фрилансерами: CRUD, фильтрация, поиск, API |
 
-Написаны намеренно без фреймворков или на Angular — чтобы понять что именно React решает под капотом.
-
----
-
-### 🚀 PageSpeed / Lighthouse — эксперименты с производительностью
-
-Коммерческий рекрутинговый лендинг (Vanilla JS, Webpack):
-- ✂️ Manual split ресурсов: Critical / Async
-- 🖼 WebP + Intersection Observer lazy loading
-- 📨 AJAX → PHP → email
-
-**Результаты Lighthouse:**  
-📱 Mobile главная: **92 / 100 / 100 / 100** · Secondary: **100 / 100 / 100 / 100**  
-🖥 Desktop: **89–100** по всем метрикам
-
-🔗 [dmdpassport.ru](https://dmdpassport.ru) · [код](https://github.com/Oleg-Frontend-creator/dme_passport-control)
+Эти проекты помогли глубже понять, как работают роутинг, состояние, API, архитектура SPA и e-commerce-сценарии до использования готовых решений.
 
 ---
 
@@ -99,4 +130,6 @@ React · Next.js · TypeScript · Tailwind CSS · VPS Deploy
 
 ## 📫 Контакты
 
-🌐 [modernstack.ru](https://modernstack.ru) · 💬 [@webbuilding_moscow](https://t.me/webbuilding_moscow) · 📧 webbuilding.moscow@yandex.com
+🌐 [modernstack.ru](https://modernstack.ru)  
+💬 [@webbuilding_moscow](https://t.me/webbuilding_moscow)  
+📧 webbuilding.moscow@yandex.com
