@@ -1,4 +1,4 @@
-# 👨‍💻 Олег Галузинский — Full-stack Web Developer
+# 👨‍💻 Олег — Full-stack Web Developer
 
 Next.js · React · TypeScript · SQL · Prisma · Tailwind CSS · VPS Deploy
 
